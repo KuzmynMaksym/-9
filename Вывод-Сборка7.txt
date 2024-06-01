@@ -1,0 +1,9 @@
+﻿Сборка начата в 16:46...
+1>------ Сборка начата: проект: Project4, Конфигурация: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\porno\source\repos\Project4\Project4\FileName.cpp(28,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+1>C:\Users\porno\source\repos\Project4\Project4\FileName.cpp(29,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+1>Project4.vcxproj -> C:\Users\porno\source\repos\Project4\x64\Debug\Project4.exe
+1>Сборка проекта "Project4.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Сборка завершено в 16:46 и заняло 01,957 с ==========
